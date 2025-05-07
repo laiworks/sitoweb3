@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laiworks.com/sitemap.xml 
